@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Robotics and more"
+email: adiazpolo17@correo.unicordoba.edu.co
 timezone: UTC
 baseurl: "/affiliates-jekyll-theme"
 permalink: "/:title/"
@@ -40,6 +40,14 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+  victor:
+    name: Victor Ramírez
+    display_name: Victor Ramírez
+    avatar: 'assets/images/victor.jpg'
+    email: victord@victor.com
+    web: https://www.cintia.unicordoba.edu.co
+    twitter: https://twitter.com/vicoramirez
+    description: "Hi, I'm a systems engineering student at University of Córdoba, passionate about computers and web development"
 
 # Social
 social:
