@@ -28,7 +28,9 @@ The equilibrium between social capacity and proactive or reactive capabilities i
 
 Some researchers highlight other aspects of agency (e.g. mobility and adaptability). Indeed, agents may have supplementary features, and in specific uses, some features can be more significant than others. Yet, is the conjugation of the three main properties (reactivity, pro-activity and social skills) in a single entity that gives importance to the agent paradigm and makes the difference between agent systems and related software paradigms, e.g. object-oriented systems, distributed systems, and expert systems.
 
-Franklin and Graesser  discuss about various definitions of agents and list some behaviours displayed by them: 1. reactive 
+Franklin and Graesser  discuss about various definitions of agents and list some behaviours displayed by them:
+
+1. reactive 
 2. autonomous
 3. guided by objective(s)/pro-active
 4. temporally continuous
