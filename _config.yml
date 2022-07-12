@@ -1,6 +1,6 @@
 title: "Robotics and more"
 email: adiazpolo17@correo.unicordoba.edu.co
-timezone: UTC
+timezone: America/Bogota
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
