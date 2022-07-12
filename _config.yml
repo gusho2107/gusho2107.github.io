@@ -46,7 +46,7 @@ authors:
     avatar: 'assets/images/victor.jpg'
     email: victord@victor.com
     web: https://www.cintia.unicordoba.edu.co
-    twitter: https://twitter.com/vicoramirez
+    twitter: https://twitter.com/POTUS
     description: "Hi, I'm a systems engineering student at University of Córdoba, passionate about computers and web development"
   augusto:
     name: Augusto Díaz
@@ -59,18 +59,18 @@ authors:
   serrato:
     name: Luis Serrato
     display_name: Luis Serrato
-    avatar:
+    avatar: 'assets/images/serrato.png'
     email: luiserato77@gmail.com
-    web: heraldo-del-fin.github.io
-    twitter:
+    web: https://www.heraldo-del-fin.github.io
+    twitter: https://www.twitter.com/arigameplays
     description: "Everything you need to know about me is that, my name is Luis, I love java with all my heart and english"
   ricardo:
     name: Ricardo Díaz
     display_name: Ricardo Díaz
-    avatar: 
+    avatar:  'assets/images/ricardo.jpg'
     email: rgavalo77@correo.unicordoba.edu.co
-    web: ricar24.github.io
-    twitter: 
+    web: https://www.ricar24.github.io
+    twitter: https://www.twitter.com/ibaillanos
     description: "My name is Ricardo, I'm studying systems engineering at University of Córdoba, I love data science and calculus"
   sebastian:
     name: Sebastian Mejía
