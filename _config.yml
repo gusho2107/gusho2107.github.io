@@ -48,7 +48,38 @@ authors:
     web: https://www.cintia.unicordoba.edu.co
     twitter: https://twitter.com/vicoramirez
     description: "Hi, I'm a systems engineering student at University of Córdoba, passionate about computers and web development"
-
+  augusto:
+    name: Augusto Díaz
+    display_name: Augusto Díaz
+    avatar: 'assets/images/augusto.jpg'
+    email: augusto@augusto.com
+    web: augustoguapo.github.io
+    twitter: https://twitter.com/augustoguapo
+    description: "Hello, Augusto here, at this time I'm a full-time student at University of Córdoba, in the program of systems engineering, I hate java"
+  serrato:
+    name: Luis Serrato
+    display_name: Luis Serrato
+    avatar:
+    email: luiserato77@gmail.com
+    web: heraldo-del-fin.github.io
+    twitter:
+    description: "Everything you need to know about me is that, my name is Luis, I love java with all my heart and english"
+  ricardo:
+    name: Ricardo Díaz
+    display_name: Ricardo Díaz
+    avatar: 
+    email: rgavalo77@correo.unicordoba.edu.co
+    web: ricar24.github.io
+    twitter: 
+    description: "My name is Ricardo, I'm studying systems engineering at University of Córdoba, I love data science and calculus"
+  sebastian:
+    name: Sebastian Mejía
+    display_name: Sebastian Mejía
+    avatar: assets/images/sebastian.jpg
+    email: smejiaortega88@correo.unicordoba.edu.co
+    web: https://www.supercell.com
+    twitter: https://www.twitter.com/supercell
+    description: "Hello I am Sebastian, former C senior engineer at Microsoft, after a hit in my head I forgot everything and now im re-learning"
 # Social
 social:
   instagram: https://www.instagram.com/bootstrapstarter/
